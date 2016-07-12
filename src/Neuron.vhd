@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------
--- Engineer: Diego Ceresuela, Oscar Pedrico.
+-- Engineer: Diego Ceresuela, Oscar Clemente.
 -- 
 -- Create Date: 13.04.2016 09:27:04
 -- Module Name: Neuron - Behavioral
