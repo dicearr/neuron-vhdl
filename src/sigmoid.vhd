@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------
--- Engineer: Diego Ceresuela, Oscar Pedrico.
+-- Engineer: Diego Ceresuela, Oscar Clemente.
 -- 
 -- Create Date: 13.04.2016 08:23:25
 -- Module Name: sigmoid - Behavioral
