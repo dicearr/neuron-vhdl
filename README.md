@@ -1,6 +1,12 @@
 # neuron-vhdl
 Implementation of a neuron and 2 neuronal networks in vhdl for a ZedBoard.
 
+The XOR neuronal network has been built to test the neurons and it's quite simple. The Xilinx project can be download from the next link.
+https://mega.nz/#!AdQDAAjJ!5pygQHFxFP4DshoSe3a9r0awPDhHk_6rOQcBCpiAAUE
+
+Another network has been built to recognize characters, its weights has been obtained from PyBrain.
+https://mega.nz/#!BZgglLpI!3OnpBpzFnOsBLb6zIpRHiVG9nZFIWedznzwWJSLVxB4
+
 ## Presentation
 There is a presentation in spanish explaining the work done.
 
