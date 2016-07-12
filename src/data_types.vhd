@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------
--- Engineer: Diego Ceresuela, Oscar Pedrico.
+-- Engineer: Diego Ceresuela, Oscar Clemente.
 -- 
 -- Create Date: 18.04.2016 11:33:46
 -- Module Name: data_types - Package
