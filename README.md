@@ -1,5 +1,8 @@
 # neuron-vhdl
-Implementation of a neuron in vhdl
+Implementation of a neuron and 2 neuronal networks in vhdl for a ZedBoard.
+
+## Presentation
+There is a presentation in spanish explaining the work done.
 
 ## Sigmoid aproximation
 Sigmoid function has been implementated with an aproximation based on a ROM. All the code and the whole aproximation is located into the "src/sigmoid.vhd" file. The aproximation mean error 0,00013.
